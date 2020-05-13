@@ -1,0 +1,51 @@
+Program -> P
+P -> proc id ; M0 begin D S end
+P -> S
+S -> S M S
+D -> D D
+D -> T id ;
+T -> X C
+T -> record N2 D end
+X -> int
+X -> real
+C -> [ num ] C
+C ->
+S -> id = E ;
+S -> L = E ;
+E -> E + E1
+E -> E1
+E1 -> E1 * E2
+E1 -> E2
+E2 -> ( E )
+E2 -> - E
+E2 -> id
+E2 -> num
+E2 -> L
+L -> id [ E ]
+L -> L [ E ]
+B -> B or M B1
+B -> B1
+B1 -> B1 and M B2
+B1 -> B2
+B2 -> not B
+B2 -> ( B )
+B2 -> E R E
+B2 -> true
+B2 -> false
+R -> <
+R -> <=
+R -> ==
+R -> !=
+R -> >
+R -> >=
+S -> if B then M S N else M S
+S -> while M B do M S
+M0 ->
+M ->
+N ->
+S -> call id ( EL ) ;
+EL -> EL , E
+EL -> E
+D -> proc id ; N1 begin D S end
+N1 ->
+N2 ->

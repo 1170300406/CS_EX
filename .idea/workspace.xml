@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d74d03a8-fb90-4e4e-9c3e-4b3d0087eed6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1af3vTv64PZL4HAWbrcKZVjhOyh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Gui">
+    <configuration name="Gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.Gui" />
+      <module name="CS_EX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemanticAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semanticAnalysis.SemanticAnalysis" />
+      <module name="CS_EX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semanticAnalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SyntaxAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntaxAnalysis.SyntaxAnalysis" />
+      <module name="CS_EX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntaxAnalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Gui" />
+        <item itemvalue="Application.SemanticAnalysis" />
+        <item itemvalue="Application.SyntaxAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d74d03a8-fb90-4e4e-9c3e-4b3d0087eed6" name="Default Changelist" comment="" />
+      <created>1587113051453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587113051453</updated>
+      <workItem from="1587113054477" duration="880000" />
+      <workItem from="1587114185959" duration="3444000" />
+      <workItem from="1587181384888" duration="7596000" />
+      <workItem from="1587216962054" duration="686000" />
+      <workItem from="1587274547997" duration="1697000" />
+      <workItem from="1587369763833" duration="75000" />
+      <workItem from="1587369865442" duration="1147000" />
+      <workItem from="1587574299823" duration="1703000" />
+      <workItem from="1587642688656" duration="2095000" />
+      <workItem from="1587796054641" duration="225000" />
+      <workItem from="1587796298539" duration="9000" />
+      <workItem from="1588078306211" duration="2589000" />
+      <workItem from="1588143979556" duration="3734000" />
+      <workItem from="1588161463591" duration="9190000" />
+      <workItem from="1588667671709" duration="8186000" />
+      <workItem from="1588744897224" duration="19279000" />
+      <workItem from="1588812447032" duration="35934000" />
+      <workItem from="1588900297810" duration="6505000" />
+      <workItem from="1588909127724" duration="3339000" />
+      <workItem from="1589040508996" duration="1015000" />
+      <workItem from="1589041905339" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1587796263638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587796263638" />
+    <state width="1537" height="201" key="GridCell.Tab.0.bottom" timestamp="1588863454754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588863454754" />
+    <state width="1537" height="201" key="GridCell.Tab.0.center" timestamp="1588863454754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588863454754" />
+    <state width="1537" height="201" key="GridCell.Tab.0.left" timestamp="1588863454754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588863454754" />
+    <state width="1537" height="201" key="GridCell.Tab.0.right" timestamp="1588863454754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588863454754" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1587796272296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1587796272296" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1588812446183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588812446183" />
+    <state x="457" y="44" width="621" height="735" key="find.popup" timestamp="1587646876095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="44" width="621" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587646876095" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1588746590140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588746590140" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="t.children" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

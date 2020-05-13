@@ -1,0 +1,43 @@
+proc fuction1;
+begin
+    int f11;
+    real f12;
+    proc fuction2;
+    begin
+        int[7][6] arr;
+        int m;
+        int n;
+        int a;
+        int b;
+        int c;
+        int d;
+        real e;
+        record real re1; int re2; end r1;
+        int x;
+        int y;
+        int z;
+        int z;
+        while a<b do
+                if c<d then
+                        x=y+z;
+                else
+                        x=y*z;
+        while a<b do
+                if c<5 then
+                        while x>y do
+                                z=x+1;
+                else
+                        x=y;
+        arr[3][5] = 2;
+        m=(m+n)*9;
+        e = e + a;
+        call a(1,2+1,a*b);
+        e1 = 7;
+        a = e2;
+        a[2] = 1;
+        e3[9] = 1;
+        a = a + arr;
+    end
+    f11 = 1;
+    call fuction2(1,2+1,a*b);
+end
